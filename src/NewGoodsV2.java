@@ -1,0 +1,2 @@
+public class NewGoodsV2 {
+}
